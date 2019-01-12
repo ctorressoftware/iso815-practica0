@@ -1,21 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package practica0;
+package com.iso810.cej;
 
 /**
  *
- * @author DELL
+ * @author Emmanuel Valenzuela
  */
 public class EscribirLayout {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
